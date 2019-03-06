@@ -2,7 +2,7 @@
 
 Created with love by: lvltcode
   
-One or two sentence summary of your project. 
+One or two sentence summary of your project: https://number-guessing-lvltcode.netlify.com/
 
 ## Video Walkthrough
 
