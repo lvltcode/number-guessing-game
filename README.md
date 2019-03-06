@@ -1,4 +1,4 @@
-# CoderSchool FTW - * Number Guessing Game *
+# CoderSchool FTW - *Number Guessing Game*
 
 Created with love by: lvltcode
   
